@@ -7,6 +7,7 @@ public class RefString {
         String s2 = s1.substring(3);
         String s3 = " String to trim.    ";
         String s4 = "C# is the best.";
+        String s5 = new String("new string");
 
         System.out.println(s1);
 //        System.out.println(s2);
