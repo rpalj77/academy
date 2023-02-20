@@ -1,8 +1,5 @@
 package generics;
 
-import java.util.LinkedList;
-import java.util.List;
-
 public class Gen<T>{
     private T obj; // deklaracia objektu typu T
 
