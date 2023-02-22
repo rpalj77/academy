@@ -31,12 +31,15 @@ public class Primitives {
         // Widening Primitive Conversions
         int myInt = 127;
         long myLong = myInt;
-        float myFloat = myLong;
-        double myDouble = myLong;
+        System.out.println(myLong);
+
+        float myFloat = 3.14f;
+        double myDouble = myFloat;
 
         // Narrowing Primitive Conversion - casting
         int myInt2 = (int) myDouble;
         byte myByte = (byte) myInt2;
+        System.out.println(myByte);
 
         System.out.println(d1);
         System.out.println(Byte.MAX_VALUE);

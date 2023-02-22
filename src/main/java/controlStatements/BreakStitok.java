@@ -1,7 +1,7 @@
 package controlStatements;
 
 
-public class BeakStitok {
+public class BreakStitok {
     public static void main(String[] args) {
         // stitok, navestie (goto)
         int i;

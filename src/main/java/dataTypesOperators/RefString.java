@@ -20,14 +20,14 @@ public class RefString {
 //        System.out.println(s4.replace("C#", "Java"));
 //        System.out.println(s4.isEmpty());
 
-        // %d pre celé čísla
+        // %d pre cele cisla
         //	%s pre String
-        //	%f pre float. Môžeme
-        //	definovať dĺžku desatinnej časti, napr: %.2f pre dve desatinné miesta.
+        //	%f pre float. Mozeme
+        //	definovat dlzku desatinnej casti, napr: %.2f pre dve desatinne miesta.
 //        int a = 10;
 //        int b = 20;
 //        int c = a + b;
-//        String s = String.format("Keď sčítame %d a %d, dostaneme %d.", a, b, c);
+//        String s = String.format("Ked scitame %d a %d, dostaneme %d.", a, b, c);
 //        System.out.println(s);
     }
 
